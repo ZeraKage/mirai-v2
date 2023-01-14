@@ -81,7 +81,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     1. chuột phải ở folder cần cài đặt source code nhấn vào git bash
     2. nhập
     ```sh
-    git clone https://github.com/maihuybao/MiraiBypassGban.git miraiv2
+    git clone https://github.com/ZeraKage/mirai-v2.git miraiv2
     ``` 
 
 4. Cài đặt các package cần thiết
@@ -154,7 +154,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
 
 2. Clone source code của bot bằng cách nhập vào terminal
     ```sh
-    git clone https://github.com/maihuybao/MiraiBypassGban.git miraiv2
+    git clone https://github.com/ZeraKage/mirai-v2.git miraiv2
     ```
 
 3. Cài đặt các package cần thiết
